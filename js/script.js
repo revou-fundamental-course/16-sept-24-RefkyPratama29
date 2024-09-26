@@ -1,6 +1,6 @@
 //java
 function replacename(){
-    //let name = prompt("siapa nama kamu? :)", "");
+    let name = prompt("siapa nama kamu? :)", "");
     document.getElementById("name").innerHTML = name
 } 
 replacename();
